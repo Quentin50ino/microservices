@@ -1,0 +1,6 @@
+it\example\department\entity\Department.class
+it\example\department\repository\DepartmentRepository.class
+it\example\department\service\DepartmentService.class
+it\example\department\ServletInitializer.class
+it\example\department\controller\DepartmentController.class
+it\example\department\DepartmentServiceApplication.class
