@@ -1,0 +1,7 @@
+it\example\user\UserServiceApplication.class
+it\example\user\VO\Department.class
+it\example\user\service\UserService.class
+it\example\user\entity\User.class
+it\example\user\controller\UserController.class
+it\example\user\VO\ResponseTemplateVO.class
+it\example\user\repository\UserRepository.class
